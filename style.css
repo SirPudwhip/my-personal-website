@@ -26,3 +26,7 @@ body {
 #testing {
     color: whitesmoke;
 }
+
+.wrong {
+    background-color: red;
+}
