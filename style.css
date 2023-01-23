@@ -9,12 +9,20 @@ body {
     color: blue;
 }
 
-div {
+.gavyn {
     width: 300px;
     border: 15px solid black;
     background-color: grey;
     padding: 50px;
     text-align: center;
-    position: absolute;
-    left: 38%;
+    margin: 50px auto;
+}
+
+.button {
+    border: 100px;
+    border-color: black;
+}
+
+#testing {
+    color: whitesmoke;
 }
